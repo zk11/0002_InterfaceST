@@ -1,0 +1,9 @@
+{
+	"name" : "DTC",
+	"main":"index.html",
+	"window": {
+      "width": 260,
+      "height": 300,
+      "toolbar": false
+	}
+}
